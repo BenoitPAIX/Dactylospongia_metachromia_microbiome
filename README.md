@@ -14,4 +14,4 @@ The main package used for this analysis will be phyloseq (for more details see t
 
 
 ![image](https://user-images.githubusercontent.com/34443366/211336771-ccb5873e-ae1f-4062-a32f-7aab7afed12c.png)
-Figure S1. Photographs of Dactylospongia metachromia collected for the farming trials. A and B. Excised wild individuals for the farming trial. C. Farming table. D, E, F and G Explants growing at T1, T2, T3, and T4, respectively
+Photographs of Dactylospongia metachromia collected for the farming trials. A and B. Excised wild individuals for the farming trial. C. Farming table. D, E, F and G Explants growing at T1, T2, T3, and T4, respectively © Dr. Mathilde Maslin 
