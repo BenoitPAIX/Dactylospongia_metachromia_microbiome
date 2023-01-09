@@ -13,4 +13,4 @@ a csv format file gathering all additional informations about the samples. Sampl
 1 file to compare the b-diversity and the phylogenetical distances of the sponge
 
 <b> Phylogeny_dist_matrix.csv</b> : 
-a csv format file with the COI distances of all samples used for the phylogeny analysis
+a csv format file with the 28S rRNA sequences distances of all samples used for the phylogeny analysis
