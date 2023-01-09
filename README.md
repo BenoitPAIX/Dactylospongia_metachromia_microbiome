@@ -2,9 +2,9 @@
 
 <b>
 Description of the project:</b>
-The sponge Dactylospongia metachromia is known to produce natural products of pharmacological interest, and a ongoing aquaculture program is aiming to grow and cultivate this sponge in French Polynesia
+The sponge <i>Dactylospongia metachromia</i> is known to produce natural products of pharmacological interest, and a ongoing aquaculture program is aiming to grow and cultivate this sponge in French Polynesia
 To study the best conditions of aquaculture of the sponge during the farming, it is essential to consider it as an holobiont system considering that the microbiome could play an important role for the sponge growth, health, resilience to environmental disturbances, and production of natural products of interest
-To this end, the study aims to investigate the spatio-temporal dynamics and stability of the prokaryotic community of the sponge model Dactylospongia metachromia. 
+To this end, the study aims to investigate the spatio-temporal dynamics and stability of the prokaryotic community of the sponge model <i>Dactylospongia metachromia</i>.
 
 <b>Objective of the script:</b>
 To analyse the 16S rRNA gene metabarcoding reads obtained from the DADA2 pipeline. 
