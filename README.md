@@ -11,3 +11,6 @@ To analyse the 16S rRNA gene metabarcoding reads obtained from the DADA2 pipelin
 The main package used for this analysis will be phyloseq (for more details see tutorials such as https://joey711.github.io/phyloseq/index.html)
 
 <b>Author of the script:</b> Dr Benoît PAIX
+
+
+![image](https://user-images.githubusercontent.com/34443366/211336771-ccb5873e-ae1f-4062-a32f-7aab7afed12c.png)
