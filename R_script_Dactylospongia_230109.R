@@ -398,7 +398,7 @@ plot(varpart_bgsenv_gps, bg = c("purple","yellow"))
 
 
 
-#### 17. MANTEL test analysis with phylogenetic distances based on COI marker ####
+#### 17. MANTEL test analysis with phylogenetic distances based on 28S marker ####
 
 
 physeq_bgsphylo = subset_samples(physeq,  Phylogeny_analysis == "Yes")
