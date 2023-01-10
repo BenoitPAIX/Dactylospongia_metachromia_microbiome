@@ -3,8 +3,8 @@
 
 ####  Description of the project ####
 # The sponge Dactylospongia metachromia is known to produce natural products of pharmacological interest, and a ongoing aquaculture program is aiming to grow and cultivate this sponge in French Polynesia
-# To study the best conditions of aquaculture of the sponge during the farming, it is essential to consider it as an holobiont system ...
-# ... considering that the microbiome could play an important role for the sponge growth, health, resilience to environmental disturbances, and production of natural products of interest
+# To study the best conditions of aquaculture of the sponge during the farming, it is essential to consider the sponge together with its microbiota as an holobiont system ...
+# ... knowing that some prokaryotic symbionts could play an important role for the sponge growth, health, resilience to environmental disturbances, and production of natural products of interest
 # To this end, the study aims to investigate the spatio-temporal dynamics and stability of the prokaryotic community of the sponge model Dactylospongia metachromia. 
 
 ####  Objective of the script ####
