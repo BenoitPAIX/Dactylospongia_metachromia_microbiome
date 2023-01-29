@@ -1,3 +1,5 @@
+# Figure to be added 
+
 <b>Figure 1</b>: Maps and sampling photos
 
 <b>Figure 2</b>: Alpha diversity
